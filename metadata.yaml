@@ -1,0 +1,25 @@
+_repo: The-Eight-Oared-VictorsA-Story-of-College-Water-Sports_42403
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42403-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chadwick, Lester
+    gutenberg_agent_id: '32638'
+    url: http://www.gutenberg.org/2009/agents/32638
+description: ''
+gutenberg_issued: '2013-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rowing -- Juvenile fiction'
+- !lcsh 'College sports -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Eight-Oared Victors: A Story of College Water Sports'
+url: http://www.gutenberg.org/ebooks/42403
